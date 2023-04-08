@@ -6,7 +6,7 @@ This repository provides a brief summarization of [the OpenAI model API](https:/
 
 Since the OpenAI API is updated and changes quickly, it is usually hard for researchers and developers to decide *which* OpenAI model to use, and *what*'s the API name of a specific model.
 
-I displayed several popular NLP models (`text` only; no `code` , embedding, image or audio models) with critical attributes for each model (e.g., **token limit**, **price**, **model size**) for researchers to easily refer to.
+To make it easier for researchers to refer to, I displayed several popular NLP models (`text` only; no `code` , embedding, image, or audio models) and attached each model with critical attributes (e.g., **token limit**, **price**, **model size**).
 
 ## Summarization
 
