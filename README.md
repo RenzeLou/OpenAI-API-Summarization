@@ -25,7 +25,7 @@ I displayed several popular NLP models (`text` only; no `code` , embedding, imag
 
 
 
-Feel free to [reach out](https://renzelou.github.io/) or submitt a pull request if there are any fallacies.
+Feel free to [reach out](https://renzelou.github.io/) or submit a pull request for any fallacies.
 
 
 
@@ -37,3 +37,4 @@ Feel free to [reach out](https://renzelou.github.io/) or submitt a pull request 
 3. [OpenAI Model index for researchers](https://platform.openai.com/docs/model-index-for-researchers)
 4. [On the Sizes of OpenAI API Models](https://blog.eleuther.ai/gpt3-model-sizes/)
 5. [How do text-davinci-002 and text-davinci-003 differ?](https://help.openai.com/en/articles/6779149-how-do-text-davinci-002-and-text-davinci-003-differ)
+
