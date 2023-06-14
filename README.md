@@ -8,10 +8,17 @@ Since the OpenAI API is updated and changes quickly, it is usually hard for rese
 
 To make it easier for researchers to refer to, I displayed several popular NLP models (`text` only; no `code` , embedding, image, or audio models) and attached each model with critical attributes (e.g., **token limit**, **price**, **model size**).
 
+
+## News
+- **06/14/2023**: Update the table according to OpenAI's [latest announcement](https://openai.com/blog/function-calling-and-other-api-updates) (06/13).
+- **04/07/2023**: Initial upload.
+
 ## Summarization
 
+You can also find the following table on the [google doc](https://docs.google.com/spreadsheets/d/1b0574tjQZVnUFzHncDFedrPsWatT-NG-C-FeKORmn1Y/edit?usp=sharing).
+
 <div align="center">
-<img src=./figures/2023-04-07.png width=102% title="summarization" />
+<img src=./figures/2023-06-14.png width=102% title="summarization" />
 </div>
 
 
