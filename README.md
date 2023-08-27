@@ -10,6 +10,7 @@ To make it easier for researchers to refer to, I displayed several popular NLP m
 
 
 ## News
+- **08/22/2023**: Update GPT-3 based model and the **new fine-tuning support of ChatGPT**. See the [latest announcement](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates).
 - **06/14/2023**: Update the table according to OpenAI's [latest announcement](https://openai.com/blog/function-calling-and-other-api-updates) (06/13).
 - **04/07/2023**: Initial upload.
 
@@ -25,10 +26,10 @@ You can also find the following table on the [google doc](https://docs.google.co
 
 📝 Some Notes:
 
-1. The prices of `Ada`, `Babbage`, `Curie`, `Davinci` are the **fine-tuning** cost; while the prices of `gpt-4` series are the cost of **Completion**. See [OpenAI Pricing](https://openai.com/pricing) for more details.
+1. The prices of `Ada`, `Babbage`, `Curie`, `Davinci` are the **fine-tuning** cost, while the prices of `gpt-4` series are the cost of **Completion**. See [OpenAI Pricing](https://openai.com/pricing) for more details.
 2. The naming convention of API is `{capability}-{family}[-{input-type}]-{identifier}`. Pls refer to [this website](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/models#naming-convention) for more details.
 3. The paper-report size of [InstructGPT](https://arxiv.org/abs/2203.02155) is 175B (i.e., `davinci-instruct-beta`), but there is no official model size information for the other APIs. Therefore, I fill in the table with my guess according to the API name (i.e., `davinci`). See [this forum](https://community.openai.com/t/what-is-the-model-size-of-text-davinci-001-002-003/24351).
-4. Some of the imformation, such as API name, might be chaged in the future. I will try to keep it up-to-date.
+4. Some of the information, such as API name, might be changed over time. I will try to keep it up-to-date.
 
 
 
