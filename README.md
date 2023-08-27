@@ -19,8 +19,9 @@ To make it easier for researchers to refer to, I displayed several popular NLP m
 You can also find the following table on the [google doc](https://docs.google.com/spreadsheets/d/1b0574tjQZVnUFzHncDFedrPsWatT-NG-C-FeKORmn1Y/edit?usp=sharing).
 
 <div align="center">
-<img src=./figures/2023-06-14.png width=102% title="summarization" />
+<img src=./figures/2023-08-22.jpg width=102% title="summarization" />
 </div>
+
 
 
 
